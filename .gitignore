@@ -1,0 +1,14 @@
+tmp/*
+pretrained/*
+pretrained
+models/*
+log/*
+dataset/*
+!dataset/*.json
+!dataset/*.txt
+.vscode
+__pycache__
+models
+finetune_*
+!coco/*.json
+coco
